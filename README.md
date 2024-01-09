@@ -12,8 +12,7 @@ Sundee Lorenz P. Espinas
 ### Debut *November 2020*
 Enhypen's debut extended play (EP) titled "Border: Day One" and its lead single "Given-Taken" were released on November 30. The debut was marked by a live showcase. They officially performed "Given-Taken" on KBS' Music Bank on December 4. The EP achieved notable success, reaching number 39 on the Japanese Oricon 2020 Yearly Album Chart and securing the second position on the South Korean Gaon Album Chart. It sold 318,528 copies domestically in a single day, making it the highest-selling album by a K-pop group that debuted in 2020. Within two weeks of their debut, Enhypen received the Next Leader Award at the 2020 Fact Music Awards.
 
-[BORDER: DAY ONE]
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3YxF7jTnpdNepWbO42f8lH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3YxF7jTnpdNepWbO42f8lH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2021: *Rise of Enhypen*
 In February 2021, Enhypen's debut EP "Border: Day One" received platinum certification from the Korea Music Content Association (KMCA), marking their first certification in South Korea. They announced a comeback in March, releasing the trailer "Intro: The Invitation" on April 5, revealing their second EP, "Border: Carnival," with the lead single "Drunk-Dazed." Pre-orders surpassed 450,000 copies by the release date.
@@ -28,6 +27,8 @@ On October 19, 2021, Enhypen won their fourth music show with "Tamed-Dashed" on 
 
 On December 9, 2021, Belift confirmed the release of "Dimension: Answer," a repackaged version of "Dimension: Dilemma," on January 10, 2022. Additionally, in February 2022, Enhypen would release the original Japanese song "Always" as the theme for the NTV drama "Muchaburi! I will be the president."
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4LGYBcRsteiXjcPD4QQvxv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### 2022
 n January 2022, Enhypen's repackaged album, "Dimension: Answer," exceeded 630,000 pre-orders. They achieved their seventh music show win with "Blessed-Cursed" on MBC M's Show Champion and continued chart success with a number one position on the Gaon Download Chart, Gaon Album Chart, and Oricon Albums Chart.
 
@@ -38,6 +39,12 @@ On July 4, Enhypen released their third EP, "Manifesto: Day 1," becoming the fas
 On September 6, they released the digital single "One in a Billion," part of the webtoon Dark Moon: The Blood Altar's official soundtrack. In October 2022, Enhypen extended their world tour to January and February 2023, adding concerts in the Philippines and Thailand.
 
 On October 26, 2022, they released their first Japanese studio album, "Sadame," featuring original Japanese songs and Japanese versions of their Korean tracks. In November, they contributed the song "Zero Moment" to the theme songs for the Korean drama "Summer Strike."
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5jGRqioNCSWZGBl3QmyuFI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3nOj9hsnptBEDt9ie2lra5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5J8MNLLViH5zqM6VoGErz8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2023-present, *latest activities*
 
