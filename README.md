@@ -61,13 +61,3 @@ On October 15, Belift announced the release of Enhypen's fifth extended play, "O
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7q65W5gVANjh1j1KXLeU0f?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7dsAlxH9cMgyREm8OLdWWT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-### Social Media
-- [Twitter](https://twitter.com/ENHYPEN_members)
-- [Instagram](https://www.instagram.com/enhypen/)
-- [Facebook](https://web.facebook.com/officialENHYPEN)
-- [Youtube](https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw)
-- [Tiktok](https://www.tiktok.com/@enhypen)
-
-**References** 
-[Enhypen](https://en.wikipedia.org/wiki/Enhypen)
