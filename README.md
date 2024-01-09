@@ -27,7 +27,9 @@ On October 19, 2021, Enhypen won their fourth music show with "Tamed-Dashed" on 
 
 On December 9, 2021, Belift confirmed the release of "Dimension: Answer," a repackaged version of "Dimension: Dilemma," on January 10, 2022. Additionally, in February 2022, Enhypen would release the original Japanese song "Always" as the theme for the NTV drama "Muchaburi! I will be the president."
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4LGYBcRsteiXjcPD4QQvxv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4LGYBcRsteiXjcPD4QQvxv?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5jGRqioNCSWZGBl3QmyuFI?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2022
 n January 2022, Enhypen's repackaged album, "Dimension: Answer," exceeded 630,000 pre-orders. They achieved their seventh music show win with "Blessed-Cursed" on MBC M's Show Champion and continued chart success with a number one position on the Gaon Download Chart, Gaon Album Chart, and Oricon Albums Chart.
@@ -40,11 +42,9 @@ On September 6, they released the digital single "One in a Billion," part of the
 
 On October 26, 2022, they released their first Japanese studio album, "Sadame," featuring original Japanese songs and Japanese versions of their Korean tracks. In November, they contributed the song "Zero Moment" to the theme songs for the Korean drama "Summer Strike."
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5jGRqioNCSWZGBl3QmyuFI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3nOj9hsnptBEDt9ie2lra5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3nOj9hsnptBEDt9ie2lra5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5J8MNLLViH5zqM6VoGErz8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5J8MNLLViH5zqM6VoGErz8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 2023-present, *latest activities*
 
@@ -57,3 +57,5 @@ On May 30, Enhypen announced their second world tour, "Fate," starting in Seoul 
 In July, Enhypen collaborated with Pokémon for the song "One and Only," released on July 12. They later released their third Japanese single, "You," on September 5.
 
 On October 15, Belift announced the release of Enhypen's fifth extended play, "Orange Blood," on November 17. The group continued their world tour, extending it to January and February 2024 with concerts in Taiwan, Singapore, China, and the Philippines. Due to high demand, additional shows were added in Seoul and Macau.
+
+
