@@ -12,7 +12,7 @@ Sundee Lorenz P. Espinas
 ### Debut *November 2020*
 Enhypen's debut extended play (EP) titled "Border: Day One" and its lead single "Given-Taken" were released on November 30. The debut was marked by a live showcase. They officially performed "Given-Taken" on KBS' Music Bank on December 4. The EP achieved notable success, reaching number 39 on the Japanese Oricon 2020 Yearly Album Chart and securing the second position on the South Korean Gaon Album Chart. It sold 318,528 copies domestically in a single day, making it the highest-selling album by a K-pop group that debuted in 2020. Within two weeks of their debut, Enhypen received the Next Leader Award at the 2020 Fact Music Awards.
 
-[BORDER: DAY ONE]<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3YxF7jTnpdNepWbO42f8lH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[BORDER: DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH?si=8hw82d7kQ-eNImjHfoQAAw)
 
 ### 2021: *Rise of Enhypen*
 In February 2021, Enhypen's debut EP "Border: Day One" received platinum certification from the Korea Music Content Association (KMCA), marking their first certification in South Korea. They announced a comeback in March, releasing the trailer "Intro: The Invitation" on April 5, revealing their second EP, "Border: Carnival," with the lead single "Drunk-Dazed." Pre-orders surpassed 450,000 copies by the release date.
