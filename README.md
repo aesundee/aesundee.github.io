@@ -13,9 +13,11 @@ Located at Sto. Domingo, Camaligan, Camarines Sur, Camaligan, Philippines, 4401
 | 6:00 AM - BICOL | 6:00 AM - BICOL |  6:00 AM - ENGLISH, 5:00 PM - ENGLISH (FB LIVE) | 6:00 AM - BICOL | 6:00 AM - BICOL | 6:00 AM - BICOL, 5:00 pm (FB LIVE) |
 
 ## Sunday Mass Schedule
-| 6:00 AM - BICOl | 7:30 AM - BICOL (FB LIVE) | 9:00 AM - ENGLISH | 5:00 PM - BICOL | 6:30 PM - ENGLISH (FB LIVE) |
-| --- | --- | --- | --- | --- |
-| 6:00 AM - BICOl | 7:30 AM - BICOL (FB LIVE) | 9:00 AM - ENGLISH | 5:00 PM - BICOL | 6:30 PM - ENGLISH (FB LIVE) |
+- 6:00 AM - BICOL
+- 7:30 AM - BICOL (FB LIVE)
+- 9:00 AM - ENGLISH
+- 5:00 PM - BICOL
+- 6:30 PM - ENGLISH (FB LIVE)
 
 ---
 
