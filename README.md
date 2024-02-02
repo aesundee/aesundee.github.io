@@ -51,7 +51,8 @@ Following the destruction of the original church, in 1857, under the leadership 
 ## Gallery
 
 ![altar of the parish](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Camaligan_Church_altar_detail.jpg/602px-Camaligan_Church_altar_detail.jpg)
-![outside of the parish] (https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Church_of_Camaligan%2C_Camarines_Sur.jpg/813px-Church_of_Camaligan%2C_Camarines_Sur.jpg)
+![alt text]([image.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Church_of_Camaligan%2C_Camarines_Sur.jpg/813px-Church_of_Camaligan%2C_Camarines_Sur.jpg))
+
 ---
 
 ## St. Anthony of Padua
