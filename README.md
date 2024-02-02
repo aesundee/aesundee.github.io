@@ -7,6 +7,7 @@ Located at Sto. Domingo, Camaligan, Camarines Sur, Camaligan, Philippines, 4401
 ---
 ## Schedule of Masses
 *Except for Sunday*
+
 |`Mon`|`Tue`|`Wed`|`Thu`|`Fri`|`Sat`|
 | --- | --- | --- | --- | --- | --- |
 | 6:00 AM - BICOL | 6:00 AM - BICOL |  6:00 AM - ENGLISH, 5:00 PM - ENGLISH (FB LIVE) | 6:00 AM - BICOL | 6:00 AM - BICOL | 6:00 AM - BICOL, 5:00 pm (FB LIVE) |
@@ -22,3 +23,9 @@ Year Founded: 1857
 Former Vicar: Rev. Fr. Serafin F. Amaro (2019-2021)
 Patron Saint: St. Anthony of Padua
 Feast Day: June 13
+
+| `Sun` | `Mon` | `Tue` | `Wed` | `Thu` | `Fri` | `Sat` |
+| --- | --- | --- | --- | --- | --- | --- |
+|   6:00 AM - 7:00 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |
+| 8:00 AM - 9:00 AM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM |
+
