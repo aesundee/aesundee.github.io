@@ -50,7 +50,7 @@ Following the destruction of the original church, in 1857, under the leadership 
 
 ## Gallery
 
-
+![altar of the parish](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Camaligan_Church_altar_detail.jpg/602px-Camaligan_Church_altar_detail.jpg)
 ---
 
 ## St. Anthony of Padua
