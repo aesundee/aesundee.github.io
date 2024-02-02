@@ -35,6 +35,8 @@ Patron Saint: St. Anthony of Padua
 
 Feast Day: June 13
 
+Diocese: Archdioces of Caceres
+
 ---
 
 ## History of the Parish
