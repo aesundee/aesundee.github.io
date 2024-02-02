@@ -13,15 +13,21 @@ Located at Sto. Domingo, Camaligan, Camarines Sur, Camaligan, Philippines, 4401
 | 6:00 AM - BICOL | 6:00 AM - BICOL |  6:00 AM - ENGLISH, 5:00 PM - ENGLISH (FB LIVE) | 6:00 AM - BICOL | 6:00 AM - BICOL | 6:00 AM - BICOL, 5:00 pm (FB LIVE) |
 
 ## Sunday Mass Schedule
-| Sunday Schedule ||
-| --- | --- | --- | --- | --- |
 | 6:00 AM - BICOl | 7:30 AM - BICOL (FB LIVE) | 9:00 AM - ENGLISH | 5:00 PM - BICOL | 6:30 PM - ENGLISH (FB LIVE) |
+| --- | --- | --- | --- | --- |
+
+---
 
 ### Church Information
 Parish Priest: Rev. Fr. Glenn C. Ruiz
+
 Parochial Vicar: Rev. Fr. Alfeo E. Catura (2021-Present)
+
 Year Founded: 1857
+
 Former Vicar: Rev. Fr. Serafin F. Amaro (2019-2021)
+
 Patron Saint: St. Anthony of Padua
+
 Feast Day: June 13
 
